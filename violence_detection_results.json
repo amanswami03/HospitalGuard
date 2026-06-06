@@ -1,0 +1,45 @@
+{
+  "total_videos_processed": 5,
+  "videos": [
+    {
+      "number": 1,
+      "name": "048057717-maidan-riots-kiev-protesters-f.mp4",
+      "violence_percentage": 0.0,
+      "violence_frames": 0,
+      "total_frames_analyzed": 15,
+      "verdict": "NO VIOLENCE"
+    },
+    {
+      "number": 2,
+      "name": "10644471-uhd_2160_3840_24fps.mp4",
+      "violence_percentage": 0.0,
+      "violence_frames": 0,
+      "total_frames_analyzed": 15,
+      "verdict": "NO VIOLENCE"
+    },
+    {
+      "number": 3,
+      "name": "117519535-istanbul-turkey-june-1-2013-hu.mp4",
+      "violence_percentage": 80.0,
+      "violence_frames": 12,
+      "total_frames_analyzed": 15,
+      "verdict": "VIOLENCE DETECTED"
+    },
+    {
+      "number": 4,
+      "name": "126985517-izmir-turkey-1962-crowd-tries-.mp4",
+      "violence_percentage": 80.0,
+      "violence_frames": 12,
+      "total_frames_analyzed": 15,
+      "verdict": "VIOLENCE DETECTED"
+    },
+    {
+      "number": 5,
+      "name": "221812620-street-fight-halloween-night-d.mp4",
+      "violence_percentage": 100.0,
+      "violence_frames": 15,
+      "total_frames_analyzed": 15,
+      "verdict": "VIOLENCE DETECTED"
+    }
+  ]
+}
